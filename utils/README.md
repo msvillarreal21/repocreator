@@ -1,9 +1,9 @@
 # 
   # Your Project Title
-  Maria
+  Repocreator
   
   ## Description 
-  asdf
+  This app creates professional README.md files.
  
   
   
@@ -16,18 +16,18 @@
   
   
   ## Installation
-  as
+  Download
     
   ## Usage 
-  as
+  To create readme files
   
   ## Credits
-  as
+  No one
     
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-tertiary)
   MIT  
-  
+  This license is covered by 
   ---
   
   🏆 
@@ -35,13 +35,13 @@
   
   
   ## Questions
-  as
-  as
-  as
+  No
+  msvillarreal2021@gmail.com
+  msvillarreal21
   
   
   ## Contributing
-  as
+  No one
   
   ## Tests
   undefined
